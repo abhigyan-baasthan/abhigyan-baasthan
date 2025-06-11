@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&width=435&lines=React+%7C+Next.js+%7C+Node.js;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&width=435&lines=React+%7C+Node.js;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ### 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,html,css,git,github,mongodb,python" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,tailwind,html,css,git,github,mongodb,python" />
 </p>
 
 ---
