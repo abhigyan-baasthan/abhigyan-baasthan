@@ -1,7 +1,7 @@
 <!-- Profile README for your GitHub account -->
 
 <h1 align="center">Hi 👋, I'm Abhigyan Borah</h1>
-<h3 align="center">A passionate developer from India 🚀</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&width=435&lines=React+%7C+Next.js+%7C+Node.js;Open+Source+Contributor" alt="Typing SVG" />
