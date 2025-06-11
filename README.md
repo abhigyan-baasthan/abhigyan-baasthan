@@ -11,10 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **full-stack applications using React, Next.js, and Node.js**
 - 🌱 I’m learning **AI & ML**, and exploring **DevOps tools**
 - 🛠️ Love building clean and scalable products
-- 💬 Ask me about **React, Tailwind, APIs, Git, or open source**
+- 💬 **React, Tailwind, APIs, Git, or open source**
 - 📫 Reach me: [Email](mailto:abhigyan.borah@example.com) | [LinkedIn](https://linkedin.com/in/YOUR_LINK)
 
 ---
@@ -43,38 +42,3 @@
 
 ---
 
-### 🧰 Tools I Use
-
-- 🧑‍💻 Code Editor: VS Code
-- 🖼️ UI Design: Figma
-- 🔍 Version Control: Git + GitHub
-- ☁️ Cloud & DevOps: Vercel, Render, Firebase (Learning AWS & Docker)
-
----
-
-### 📌 Pinned Projects
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME/your-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhigyan-baasthan&repo=your-project&theme=tokyonight" /></a>
-  <a href="https://github.com/YOUR_USERNAME/your-other-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhigyan-baasthan&repo=your-other-project&theme=tokyonight" /></a>
-</p>
-
----
-
-### ⚡ Fun Fact
-
-> “I turn coffee ☕ into code!”
-
----
-
-**Customize `YOUR_USERNAME` and `your-project` wherever needed.**
-
----
-
-### ✅ Next Steps
-
-1. Create a new repo named **`<your-username>`**
-2. Add this content as `README.md`
-3. Push and enjoy your awesome profile
-
-Let me know if you want a dark version or want to add blogs, quotes, or achievements!
