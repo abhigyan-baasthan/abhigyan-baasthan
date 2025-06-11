@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m learning **AI & ML**, and exploring **DevOps tools**
+- 🌱 I’m learning **AI & ML**,
 - 🛠️ Love building clean and scalable products
 - 💬 **React, Tailwind, APIs, Git, or open source**
 
